@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200&display=swap" rel="stylesheet">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8" />
+<title>My Favorite Verses - Extras</title>
+</head>
+<body id="home">
+<h1>Extras</h1>
+<p>These are not exactly verses, but they are still good to know.</p>
+<br>
+<a href = "https://docs.google.com/document/d/e/2PACX-1vTXDxDjn_3eZIShhyzxctJcPOuP-OM27t17reczuNy6xBzOIBlLHa5Ohs33SfxnysuxS3-ySeEREPRz/pub">What was Jesus life like?</a>
+<style>
+    * {
+      font-family:"Inter", sans-serif;  
+    } 
+  
+    body {
+      background-color:black;
+      color:white;
+      text-align:center;
+    }
+  
+    a {
+      text-decoration:none;
+    }
+  
+    a:hover {
+      text-decoration:underline;
+    }
+  
+    a:visited {
+      color:lightblue;  
+    }
+</style>
+</body>
+</html>
